@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ваня Ньюман](https://up.htmlacademy.ru/adaptive/20/user/51778).
-* Наставник: `Неизвестно`.
+* Наставник: Серёжа Попов.
 
 ---
 
